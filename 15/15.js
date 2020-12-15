@@ -21,4 +21,5 @@ function getithNumber(i) {
     return number
 }
 
-console.log("2020th number: ", getithNumber(2020))
+console.log("Part 1 2020th number: ", getithNumber(2020))
+console.log("Part 2 30000000th number: ", getithNumber(30000000))
